@@ -49,6 +49,7 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 - <span style="color:blue;">**\[ACL 25-Findings (CCF-A)\]**</span>   Zengyi Gao, **Yukun Cao <sup>Co-First</sup>**, Hairu Wang, Ao Ke, Yuan Feng, Xike Xie, S Kevin Zhou: "FRAG: A Flexible Modular Framework for Retrieval-Augmented Generation based on Knowledge Graphs": *The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)*. [Paper](https://arxiv.org/pdf/2501.09957)
 - <span style="color:blue;">**\[ICLR 24-Spotlight Paper (Top AI conf.)\]**</span> Yuan Feng, **Yukun Cao <sup>Co-First</sup>**, Hairu Wang, Xike Xie, S. Kevin Zhou: "Mayfly: a Neural Data Structure for Graph Stream Summarization": *The Twelfth International Conference on Learning Representations (ICLR 2024), __Spotlight (Rate:5%)__*. [Paper](https://openreview.net/pdf?id=n7Sr8SW4bn)
 - <span style="color:gray;">**\[Arxiv\]**</span>  Shuo Han, **Yukun Cao <sup>Co-First</sup>**, Zezhong Ding, Zengyi Gao, S Kevin Zhou, Xike Xie: "See or Say Graphs: Agent-Driven Scalable Graph Understanding with Vision-Language Models".  [Paper](https://arxiv.org/abs/2510.16769)
+- <span style="color:gray;">**\[Arxiv\]**</span> Zhiyang Li, Ao Ke, **Yukun Cao <sup>+</sup>**, Xike Xie: "KG-ViP: Bridging Knowledge Grounding and Visual Perception in Multi-modal LLMs for Visual Question Answering".  [Paper](http://arxiv.org/abs/2601.11632v1)
 
 
 
