@@ -39,6 +39,7 @@ Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main
 <h3>🟦 First/Corresponding Author Publications</h3>
 
 <hr>
+
 - <span style="color:blue;">**\[ACL 26-Main (CCF-A)\]**</span>  Zhiyang Li, Ao Ke, **Yukun Cao <sup>+</sup>**, Xike Xie: "KG-ViP: Bridging Knowledge Grounding and Visual Perception in Multi-modal LLMs for Visual Question Answering": *The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)*. [Paper](http://arxiv.org/abs/2601.11632v1)
 - <span style="color:blue;">**\[ACL 26-Findings (CCF-A)\]**</span>  Shuo Han, **Yukun Cao <sup>Co-First</sup>**, Zezhong Ding, Zengyi Gao, S Kevin Zhou, Xike Xie: "See or Say Graphs: Agent-Driven Scalable Graph Understanding with Vision-Language Models": *The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)*.  [Paper](https://arxiv.org/abs/2510.16769)
 - <span style="color:blue;">**\[PVLDB 25-Research Paper (CCF-A)\]**</span>  **Yukun Cao**, Zengyi Gao, Zhiyang Li, Xike Xie, S Kevin Zhou, Jianliang Xu: "LEGO-GraphRAG: Modularizing Graph-based Retrieval-Augmented Generation for Design Space Exploration": *51st International Conference on Very Large Data Bases (PVLDB 2025)*.  [Paper](https://arxiv.org/abs/2411.05844)
