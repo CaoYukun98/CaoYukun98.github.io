@@ -20,7 +20,7 @@ redirect_from:
 Hi！I obtained my Ph.D. degree in Engineering in November 2025 from [the School of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm), [the University of Science and Technology of China (USTC,中国科大计算机学院)](https://www.ustc.edu.cn/). During my Ph.D. studies, I worked in the Data Darkness Lab ([DDL Lab](http://staff.ustc.edu.cn/~xkxie/index.html)), Center for Medical Imaging, Robotics,
 Analytic Computing & Learning ([MIRACLE Center](https://miracle.ustc.edu.cn/main.htm)), [Suzhou Institute for Advance Research](https://sz.ustc.edu.cn/index.html), [USTC](https://www.ustc.edu.cn/), supervised by [Prof. Xike Xie](http://staff.ustc.edu.cn/~xkxie/index.html) (since September 2020, postgraduate recommendation/推免入学). I received B.E. degree from [the College of Computer and Information Science and College of Software](http://cis.swu.edu.cn/), [Southwest University (SWU, 西南大学)](http://www.swu.edu.cn/) in 2020.
 
-中文主页：https://faculty.xidian.edu.cn/caoyukun/zh_CN/index.htm
+[中文主页见：(https://faculty.xidian.edu.cn/caoyukun/zh_CN/index.htm)]
 
 # 🔎 Research Interests
 <span class='anchor' id='-research-interests'></span>
