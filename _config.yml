@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yukun Cao (曹宇坤)"
   avatar           : "images/cyk.jpg"
-  bio              : "Ph.D., USTC CS"
+  bio              : ""
   location         : "Suzhou/Hefei, China"
   employer         :  
   pubmed           : 
   googlescholar    :  "https://scholar.google.com/citations?user=0tFStB4AAAAJ&hl=zh-CN"
-  email            : "caoyukun@xidian.edu.cn // ykcho@mail.ustc.edu.cn"
+  email            : "caoyukun@xidian.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
