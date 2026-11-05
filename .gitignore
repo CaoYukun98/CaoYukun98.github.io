@@ -3,3 +3,6 @@ push.sh
 .DS_Store
 automation/.github-token
 automation/.askpass*
+automation/deploy_key
+automation/deploy_key.pub
+automation/known_hosts

@@ -33,8 +33,19 @@ if [[ -z "$token" && -f "$token_file" ]]; then
   token="$(tr -d '\r\n' < "$token_file")"
 fi
 
+remote_url="$(git remote get-url origin)"
+
+if [[ "$remote_url" == git@* || "$remote_url" == ssh://* ]]; then
+  if GIT_TERMINAL_PROMPT=0 git push origin HEAD:main; then
+    echo "PUSHED $hash"
+    exit 0
+  fi
+  echo "PUSH_FAILED: committed locally ($hash); check the deploy key and network."
+  exit 1
+fi
+
 if [[ -z "$token" ]]; then
-  echo "NO_TOKEN: committed locally ($hash); set $token_file to publish."
+  echo "NO_AUTH: committed locally ($hash); add a deploy key or $token_file."
   exit 2
 fi
 

@@ -75,6 +75,11 @@
 
 ## 凭证
 
-发布需要仓库 `caoyukun98/caoyukun98.github.io` 的 `Contents: Read and write` 权限。
-token 只放在 `automation/.github-token`（已在 `.gitignore` 中），不要贴到对话里。
-没有 token 时，流程仍会完成本地修改和提交，只是不推送。
+发布需要仓库 `caoyukun98/caoyukun98.github.io` 的写权限，二选一：
+
+- **Deploy key（当前使用）**：私钥在 `automation/deploy_key`，公钥已加到仓库
+  `Settings → Deploy keys` 并勾选 `Allow write access`。
+- **Fine-grained PAT（备选）**：token 只放在 `automation/.github-token`。
+
+两者都在 `.gitignore` 中，不要贴到对话里，也不要用 `git add -f` 加进仓库。
+没有可用凭证时，流程仍会完成本地修改和提交，只是不推送。
