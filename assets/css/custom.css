@@ -269,15 +269,15 @@ a:hover {
    -------------------------------------------------------------------------- */
 
 .award-list {
-  margin: 1.1em 0 2em;
+  margin: 0.8em 0 1.5em;
 }
 
 .award-item {
   display: grid;
-  grid-template-columns: 96px minmax(0, 1fr);
-  gap: 18px;
+  grid-template-columns: 90px minmax(0, 1fr);
+  gap: 14px;
   align-items: start;
-  padding: 13px 0 15px;
+  padding: 8px 0 9px;
   border-bottom: 1px solid var(--line-soft);
 }
 
@@ -286,19 +286,19 @@ a:hover {
 }
 
 .award-year {
-  padding-top: 2px;
+  padding-top: 1px;
   color: var(--accent);
-  font-size: 0.78rem;
+  font-size: 0.75rem;
   font-weight: 700;
-  line-height: 1.45;
+  line-height: 1.35;
   letter-spacing: 0.01em;
 }
 
 .award-title {
   color: var(--ink);
-  font-size: 0.98rem;
+  font-size: 0.94rem;
   font-weight: 600;
-  line-height: 1.5;
+  line-height: 1.4;
 }
 
 .award-cn {
@@ -308,10 +308,10 @@ a:hover {
 }
 
 .award-meta {
-  margin-top: 3px;
+  margin-top: 1px;
   color: var(--muted);
-  font-size: 0.84rem;
-  line-height: 1.55;
+  font-size: 0.8rem;
+  line-height: 1.45;
 }
 
 .award-note {
@@ -326,13 +326,13 @@ a:hover {
 @media (max-width: 48em) {
   .award-item {
     grid-template-columns: 1fr;
-    gap: 3px;
-    padding: 12px 0 13px;
+    gap: 2px;
+    padding: 8px 0 9px;
   }
 
   .award-year {
     padding-top: 0;
-    font-size: 0.74rem;
+    font-size: 0.72rem;
   }
 }
 
