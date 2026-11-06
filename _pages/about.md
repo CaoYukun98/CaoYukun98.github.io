@@ -212,3 +212,23 @@ redirect_from:
     </div>
   </div>
 </div>
+
+# 💼 Work Experience
+<span class='anchor' id='-work'></span>
+
+<div class="edu-list work-list">
+  <div class="edu-item">
+    <div class="edu-logo"><img src="images/logos/xdu.png" alt="Xidian University emblem"></div>
+    <div class="edu-body">
+      <div class="edu-degree"><span class="edu-date">2026 – present</span> · Elite Associate Professor (菁英副教授)</div>
+      <div class="edu-school">School of Computer Science and Technology, Xidian University, Xi'an, China.</div>
+    </div>
+  </div>
+  <div class="edu-item">
+    <div class="edu-logo"><img src="images/logos/hkbu.png" alt="Hong Kong Baptist University emblem"></div>
+    <div class="edu-body">
+      <div class="edu-degree"><span class="edu-date">2026 –</span> · Hong Kong Scholar, Hong Kong Scholars Program <span class="edu-rank">Incoming</span></div>
+      <div class="edu-school">Hong Kong Baptist University (HKBU), Hong Kong SAR, China.</div>
+    </div>
+  </div>
+</div>
