@@ -131,7 +131,7 @@ redirect_from:
 
 <details class="pub-collapsible">
   <summary title="Expand or collapse other publications">
-    <span class="pub-group-title pub-group-other">Other Publications <span class="pub-count" data-pub-count>9 papers</span><span class="pub-toggle" aria-hidden="true"></span></span>
+    <span class="pub-group-title pub-group-other">Other Publications <span class="pub-count" data-pub-count>9 papers</span><span class="pub-toggle-wrap" aria-hidden="true"><span class="pub-toggle-text"></span><span class="pub-toggle"></span></span></span>
   </summary>
 
 
