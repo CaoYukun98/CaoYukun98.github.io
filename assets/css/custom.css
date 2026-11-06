@@ -165,9 +165,9 @@ a:hover {
 
 .sidebar .author__affiliation-logo {
   flex: 0 0 auto;
-  width: 64px;
-  height: 64px;
-  max-width: 64px;
+  width: 60px;
+  height: 60px;
+  max-width: 60px;
   object-fit: contain;
 }
 
@@ -189,6 +189,36 @@ a:hover {
   color: var(--muted);
   font-size: 0.8em;
   line-height: 1.35;
+}
+
+@media (min-width: 57.8125em) {
+  .sidebar .author__avatar {
+    display: flex;
+    justify-content: center;
+  }
+
+  .sidebar .author__avatar img {
+    margin: 0 auto;
+  }
+
+  .sidebar .author__content {
+    text-align: center;
+  }
+
+  .sidebar .author__name {
+    text-align: center;
+  }
+
+  .author__affiliation,
+  .author__affiliation-text {
+    align-items: center;
+    text-align: center;
+  }
+
+  .author__role,
+  .author__org {
+    text-align: center;
+  }
 }
 
 .author__bio {
