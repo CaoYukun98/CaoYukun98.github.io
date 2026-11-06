@@ -177,6 +177,13 @@ redirect_from:
 
 <div class="award-list">
   <div class="award-item">
+    <div class="award-year">2025</div>
+    <div class="award-main">
+      <div class="award-title">Outstanding Graduate Award <span class="award-cn">(中国科学技术大学优秀毕业生)</span></div>
+      <div class="award-meta">University of Science and Technology of China (USTC)</div>
+    </div>
+  </div>
+  <div class="award-item">
     <div class="award-year">2024</div>
     <div class="award-main">
       <div class="award-title">Suzhou Industrial Park Scholarship <span class="award-cn">(苏州工业园区奖学金)</span></div>
