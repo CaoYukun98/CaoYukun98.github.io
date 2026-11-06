@@ -22,7 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yukun Cao (曹宇坤)"
-  title            : "Associate Professor, Xidian University"
+  role             : "Associate Professor"
+  affiliation      : "Xidian University"
   avatar           : "images/cyk4.jpg"
   bio              : ""
   location         : "Xian, China"

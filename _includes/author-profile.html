@@ -10,7 +10,15 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.title %}<p class="author__title">{{ author.title }}</p>{% endif %}
+    {% if author.role or author.title %}
+    <div class="author__affiliation">
+      <img class="author__affiliation-logo" src="{{ '/images/logos/xdu.png' | relative_url }}" alt="Xidian University emblem">
+      <div class="author__affiliation-text">
+        <span class="author__role">{{ author.role | default: author.title }}</span>
+        {% if author.affiliation %}<span class="author__org">{{ author.affiliation }}</span>{% endif %}
+      </div>
+    </div>
+    {% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
