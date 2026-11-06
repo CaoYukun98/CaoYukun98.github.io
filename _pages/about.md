@@ -62,6 +62,12 @@ redirect_from:
     <div class="pub-meta"><em>The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)</em>. <a class="pub-link" href="http://arxiv.org/abs/2601.11632v1" target="_blank" rel="noopener">Paper</a></div>
   </li>
   <li class="pub-item">
+    <div class="pub-tags"><span class="pub-venue-tag">ACL 26-Findings</span><span class="pub-ccf pub-ccf-a">CCF-A</span></div>
+    <div class="pub-title">See or Say Graphs: Agent-Driven Scalable Graph Understanding with Vision-Language Models</div>
+    <div class="pub-authors">Shuo Han, <strong>Yukun Cao <sup>Co-First</sup></strong>, Zezhong Ding, Zengyi Gao, S Kevin Zhou, Xike Xie</div>
+    <div class="pub-meta"><em>The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)</em>. <a class="pub-link" href="https://arxiv.org/abs/2510.16769" target="_blank" rel="noopener">Paper</a></div>
+  </li>
+  <li class="pub-item">
     <div class="pub-tags"><span class="pub-venue-tag">PVLDB 25-Research Paper</span><span class="pub-ccf pub-ccf-a">CCF-A</span></div>
     <div class="pub-title">LEGO-GraphRAG: Modularizing Graph-based Retrieval-Augmented Generation for Design Space Exploration</div>
     <div class="pub-authors"><strong>Yukun Cao</strong>, Zengyi Gao, Zhiyang Li, Xike Xie, S Kevin Zhou, Jianliang Xu</div>
@@ -72,30 +78,6 @@ redirect_from:
     <div class="pub-title">GraphInsight: Unlocking Insights in Large Language Models for Graph Structure Understanding</div>
     <div class="pub-authors"><strong>Yukun Cao</strong>, Shuo Han, Zengyi Gao, Zezhong Ding, Xike Xie, S Kevin Zhou</div>
     <div class="pub-meta"><em>The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)</em>. <a class="pub-link" href="https://arxiv.org/abs/2409.03258" target="_blank" rel="noopener">Paper</a></div>
-  </li>
-  <li class="pub-item">
-    <div class="pub-tags"><span class="pub-venue-tag">TPAMI 24-Regular Paper</span><span class="pub-ccf pub-ccf-a">CCF-A</span><span class="pub-if" title="2026 JCR Impact Factor">IF 20.4</span></div>
-    <div class="pub-title">Learning to Sketch: A Neural Approach to Item Frequency Estimation in Streaming Data</div>
-    <div class="pub-authors"><strong>Yukun Cao</strong>, Yuan Feng, Hairu Wang, Xike Xie, S. Kevin Zhou</div>
-    <div class="pub-meta"><em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em>. <a class="pub-link" href="https://ieeexplore.ieee.org/document/10499867" target="_blank" rel="noopener">Paper</a></div>
-  </li>
-  <li class="pub-item">
-    <div class="pub-tags"><span class="pub-venue-tag">ICDE 23-Regular Paper</span><span class="pub-ccf pub-ccf-a">CCF-A</span></div>
-    <div class="pub-title">Learn to Explore: on Bootstrapping Interactive Data Exploration with Meta-learning</div>
-    <div class="pub-authors"><strong>Yukun Cao</strong>, Xike Xie, Kexing Huang</div>
-    <div class="pub-meta"><em>The 39th IEEE International Conference on Data Engineering (ICDE 2023)</em>. <a class="pub-link" href="https://ieeexplore.ieee.org/document/10184532" target="_blank" rel="noopener">Paper</a></div>
-  </li>
-  <li class="pub-item">
-    <div class="pub-tags"><span class="pub-venue-tag">AAAI 23-Oral Paper</span><span class="pub-ccf pub-ccf-a">CCF-A</span></div>
-    <div class="pub-title">Meta-sketch: A Neural Data Structure for Estimating Item Frequencies of Data Streams</div>
-    <div class="pub-authors"><strong>Yukun Cao</strong>, Yuan Feng, Xike Xie</div>
-    <div class="pub-meta"><em>Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023), <strong>Oral (Rate:11%)</strong></em>. <a class="pub-link" href="https://ojs.aaai.org/index.php/AAAI/article/view/25846" target="_blank" rel="noopener">Paper</a></div>
-  </li>
-  <li class="pub-item">
-    <div class="pub-tags"><span class="pub-venue-tag">ACL 26-Findings</span><span class="pub-ccf pub-ccf-a">CCF-A</span></div>
-    <div class="pub-title">See or Say Graphs: Agent-Driven Scalable Graph Understanding with Vision-Language Models</div>
-    <div class="pub-authors">Shuo Han, <strong>Yukun Cao <sup>Co-First</sup></strong>, Zezhong Ding, Zengyi Gao, S Kevin Zhou, Xike Xie</div>
-    <div class="pub-meta"><em>The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)</em>. <a class="pub-link" href="https://arxiv.org/abs/2510.16769" target="_blank" rel="noopener">Paper</a></div>
   </li>
   <li class="pub-item">
     <div class="pub-tags"><span class="pub-venue-tag">ICML 25-Poster Paper</span><span class="pub-ccf pub-ccf-a">CCF-A</span></div>
@@ -110,10 +92,28 @@ redirect_from:
     <div class="pub-meta"><em>The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)</em>. <a class="pub-link" href="https://arxiv.org/pdf/2501.09957" target="_blank" rel="noopener">Paper</a></div>
   </li>
   <li class="pub-item">
+    <div class="pub-tags"><span class="pub-venue-tag">TPAMI 24-Regular Paper</span><span class="pub-ccf pub-ccf-a">CCF-A</span><span class="pub-if" title="2026 JCR Impact Factor">IF 20.4</span></div>
+    <div class="pub-title">Learning to Sketch: A Neural Approach to Item Frequency Estimation in Streaming Data</div>
+    <div class="pub-authors"><strong>Yukun Cao</strong>, Yuan Feng, Hairu Wang, Xike Xie, S. Kevin Zhou</div>
+    <div class="pub-meta"><em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em>. <a class="pub-link" href="https://ieeexplore.ieee.org/document/10499867" target="_blank" rel="noopener">Paper</a></div>
+  </li>
+  <li class="pub-item">
     <div class="pub-tags"><span class="pub-venue-tag">ICLR 24-Spotlight Paper</span><span class="pub-ccf pub-ccf-a">CCF-A</span></div>
     <div class="pub-title">Mayfly: a Neural Data Structure for Graph Stream Summarization</div>
     <div class="pub-authors">Yuan Feng, <strong>Yukun Cao <sup>Co-First</sup></strong>, Hairu Wang, Xike Xie, S. Kevin Zhou</div>
     <div class="pub-meta"><em>The Twelfth International Conference on Learning Representations (ICLR 2024), <strong>Spotlight (Rate:5%)</strong></em>. <a class="pub-link" href="https://openreview.net/pdf?id=n7Sr8SW4bn" target="_blank" rel="noopener">Paper</a></div>
+  </li>
+  <li class="pub-item">
+    <div class="pub-tags"><span class="pub-venue-tag">ICDE 23-Regular Paper</span><span class="pub-ccf pub-ccf-a">CCF-A</span></div>
+    <div class="pub-title">Learn to Explore: on Bootstrapping Interactive Data Exploration with Meta-learning</div>
+    <div class="pub-authors"><strong>Yukun Cao</strong>, Xike Xie, Kexing Huang</div>
+    <div class="pub-meta"><em>The 39th IEEE International Conference on Data Engineering (ICDE 2023)</em>. <a class="pub-link" href="https://ieeexplore.ieee.org/document/10184532" target="_blank" rel="noopener">Paper</a></div>
+  </li>
+  <li class="pub-item">
+    <div class="pub-tags"><span class="pub-venue-tag">AAAI 23-Oral Paper</span><span class="pub-ccf pub-ccf-a">CCF-A</span></div>
+    <div class="pub-title">Meta-sketch: A Neural Data Structure for Estimating Item Frequencies of Data Streams</div>
+    <div class="pub-authors"><strong>Yukun Cao</strong>, Yuan Feng, Xike Xie</div>
+    <div class="pub-meta"><em>Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023), <strong>Oral (Rate:11%)</strong></em>. <a class="pub-link" href="https://ojs.aaai.org/index.php/AAAI/article/view/25846" target="_blank" rel="noopener">Paper</a></div>
   </li>
   <li class="pub-item">
     <div class="pub-tags"><span class="pub-venue-tag">arXiv 2026</span></div>
@@ -156,6 +156,12 @@ redirect_from:
     <div class="pub-meta"><em>The 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)</em>. <a class="pub-link" href="https://arxiv.org/abs/2410.07617" target="_blank" rel="noopener">Paper</a></div>
   </li>
   <li class="pub-item">
+    <div class="pub-tags"><span class="pub-venue-tag">EMNLP 26-Findings</span><span class="pub-ccf pub-ccf-b">CCF-B</span></div>
+    <div class="pub-title">GRAIN: Bridging Name and Narrative Shifts in Real-World Graph Reasoning through Invariance-Rewarded Agentic RL</div>
+    <div class="pub-authors">Zike Yuan, Han Zhang, Jianzhi Yan, Le Liu, Cai Ke, Huozhi Zhou, Jian Xie, Jiran Yin, <strong>Yukun Cao</strong>, Yue Yu, Hui Wang, Ming Liu, Bing Qin</div>
+    <div class="pub-meta"><em>The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026), Findings</em>. <a class="pub-link" href="https://arxiv.org/abs/2608.27142" target="_blank" rel="noopener">Paper</a></div>
+  </li>
+  <li class="pub-item">
     <div class="pub-tags"><span class="pub-venue-tag">EMNLP 25-Findings Paper</span><span class="pub-ccf pub-ccf-b">CCF-B</span></div>
     <div class="pub-title">SkewRoute: Training-Free LLM Routing for Knowledge Graph Retrieval-Augmented Generation via Score Skewness of Retrieved Context</div>
     <div class="pub-authors">Hairu Wang, Yuan Feng, <strong>Yukun Cao</strong>, Xike Xie, S Kevin Zhou</div>
@@ -184,12 +190,6 @@ redirect_from:
     <div class="pub-title">Social-Aware and Sequential Embedding for Cold-Start Recommendation</div>
     <div class="pub-authors">Kexin Huang, <strong>Yukun Cao</strong>, Ye Du, Li Li</div>
     <div class="pub-meta"><em>Knowledge Science, Engineering and Management-12th International Conference (KSEM 2019)</em>.</div>
-  </li>
-  <li class="pub-item">
-    <div class="pub-tags"><span class="pub-venue-tag">EMNLP 26-Findings</span><span class="pub-ccf pub-ccf-b">CCF-B</span></div>
-    <div class="pub-title">GRAIN: Bridging Name and Narrative Shifts in Real-World Graph Reasoning through Invariance-Rewarded Agentic RL</div>
-    <div class="pub-authors">Zike Yuan, Han Zhang, Jianzhi Yan, Le Liu, Cai Ke, Huozhi Zhou, Jian Xie, Jiran Yin, <strong>Yukun Cao</strong>, Yue Yu, Hui Wang, Ming Liu, Bing Qin</div>
-    <div class="pub-meta"><em>The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026), Findings</em>. <a class="pub-link" href="https://arxiv.org/abs/2608.27142" target="_blank" rel="noopener">Paper</a></div>
   </li>
 </ul>
 </details>
