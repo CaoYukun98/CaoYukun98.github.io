@@ -191,7 +191,7 @@ a:hover {
 
 .page__content > p {
   text-align: justify;
-  text-justify: inter-word;
+  text-align-last: left;
 }
 
 .page__content p,
@@ -563,7 +563,7 @@ a:hover {
 
 @media (max-width: 56em) {
   .page__content > p {
-    text-align: left;
+    text-align: left !important;
   }
 
   .pub-title {
