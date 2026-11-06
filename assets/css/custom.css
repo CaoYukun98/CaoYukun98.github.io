@@ -524,6 +524,54 @@ a:hover {
   background: var(--accent);
 }
 
+.pub-count {
+  margin-left: 8px;
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  white-space: nowrap;
+}
+
+.pub-collapsible {
+  margin: 0;
+}
+
+.pub-collapsible > summary {
+  display: block;
+  margin: 0;
+  list-style: none;
+  cursor: pointer;
+}
+
+.pub-collapsible > summary::-webkit-details-marker {
+  display: none;
+}
+
+.pub-collapsible > summary:hover .pub-group-title {
+  color: var(--accent);
+}
+
+.pub-collapsible > summary:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 3px;
+}
+
+.pub-toggle {
+  margin-left: auto;
+  width: 7px;
+  height: 7px;
+  border-right: 1.5px solid var(--muted);
+  border-bottom: 1.5px solid var(--muted);
+  transform: rotate(45deg);
+  transition: transform 0.2s ease;
+}
+
+.pub-collapsible[open] .pub-toggle {
+  transform: rotate(-135deg);
+}
+
 .pub-group-other::before {
   background: #9aa5b1;
 }
