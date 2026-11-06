@@ -265,6 +265,78 @@ a:hover {
 }
 
 /* --------------------------------------------------------------------------
+   Honors and awards
+   -------------------------------------------------------------------------- */
+
+.award-list {
+  margin: 1.1em 0 2em;
+}
+
+.award-item {
+  display: grid;
+  grid-template-columns: 96px minmax(0, 1fr);
+  gap: 18px;
+  align-items: start;
+  padding: 13px 0 15px;
+  border-bottom: 1px solid var(--line-soft);
+}
+
+.award-item:last-child {
+  border-bottom: 0;
+}
+
+.award-year {
+  padding-top: 2px;
+  color: var(--accent);
+  font-size: 0.78rem;
+  font-weight: 700;
+  line-height: 1.45;
+  letter-spacing: 0.01em;
+}
+
+.award-title {
+  color: var(--ink);
+  font-size: 0.98rem;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.award-cn {
+  color: var(--muted);
+  font-size: 0.92em;
+  font-weight: 400;
+}
+
+.award-meta {
+  margin-top: 3px;
+  color: var(--muted);
+  font-size: 0.84rem;
+  line-height: 1.55;
+}
+
+.award-note {
+  color: #74808b;
+}
+
+.award-note::before {
+  content: " · ";
+  color: #b9c1ca;
+}
+
+@media (max-width: 48em) {
+  .award-item {
+    grid-template-columns: 1fr;
+    gap: 3px;
+    padding: 12px 0 13px;
+  }
+
+  .award-year {
+    padding-top: 0;
+    font-size: 0.74rem;
+  }
+}
+
+/* --------------------------------------------------------------------------
    Education
    -------------------------------------------------------------------------- */
 

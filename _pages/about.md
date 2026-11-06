@@ -174,17 +174,86 @@ redirect_from:
 
 # 🎖 Honors and Awards
 <span class='anchor' id='-honors-and-awards'></span>
-- 2024 **Suzhou Industrial Park Scholarship (苏州工业园区奖学金)** at USTC.
-- 2023 **Suzhou Industrial Park Scholarship (苏州工业园区奖学金)** at USTC.
-- 2022 **Yuan-Qing Scholarship (元庆奖学金，选拔中国科大计算机学院2022级的4名博士生)** at USTC (Selecting 4 PhD students in the 2022 class of School of Computer Science).
-- 2020 **Outstanding Graduates Award of Chongqing City (重庆市优秀毕业生)**.
-- 2020 **Scholarship of Gratitude to Chinese Modern and Contemporary Scientists (感恩中国近现代科学家奖学金，面向中国西部的985/211高校评选，每所高校只评选10名)** (Targeting 985/211 project Universities in Western China, each university has only 10 students).
-- 2020 **Pin-Sheng Scholarship (品胜奖学金)** at SWU (Rate: $\approx$ 1/480).
-- 2019 **Yu-Hui Scholarship (玉辉奖学金)** at SWU (Rate: $\approx$ 1/480).
-- 2017/2018/2019 three times **National Scholarship (三次获得 国家奖学金)** at SWU (Rate: $\approx$ 1/120).
-- 2019 **Excellence in Learning Award (学习优胜奖)** at SWU.
-- 2018 **Advanced Individual in Technological Innovation (科创先进个人称号)** at SWU.
-- 2017/2018 twice **Outstanding Student Award（两次获得 三好学生称号）** at SWU.
+
+<div class="award-list">
+  <div class="award-item">
+    <div class="award-year">2024</div>
+    <div class="award-main">
+      <div class="award-title">Suzhou Industrial Park Scholarship <span class="award-cn">(苏州工业园区奖学金)</span></div>
+      <div class="award-meta">University of Science and Technology of China (USTC)</div>
+    </div>
+  </div>
+  <div class="award-item">
+    <div class="award-year">2023</div>
+    <div class="award-main">
+      <div class="award-title">Suzhou Industrial Park Scholarship <span class="award-cn">(苏州工业园区奖学金)</span></div>
+      <div class="award-meta">University of Science and Technology of China (USTC)</div>
+    </div>
+  </div>
+  <div class="award-item">
+    <div class="award-year">2022</div>
+    <div class="award-main">
+      <div class="award-title">Yuan-Qing Scholarship <span class="award-cn">(元庆奖学金，选拔中国科大计算机学院2022级的4名博士生)</span></div>
+      <div class="award-meta">University of Science and Technology of China (USTC) <span class="award-note">Selecting 4 PhD students in the 2022 class of School of Computer Science</span></div>
+    </div>
+  </div>
+  <div class="award-item">
+    <div class="award-year">2020</div>
+    <div class="award-main">
+      <div class="award-title">Outstanding Graduates Award of Chongqing City <span class="award-cn">(重庆市优秀毕业生)</span></div>
+      <div class="award-meta">Chongqing, China</div>
+    </div>
+  </div>
+  <div class="award-item">
+    <div class="award-year">2020</div>
+    <div class="award-main">
+      <div class="award-title">Scholarship of Gratitude to Chinese Modern and Contemporary Scientists <span class="award-cn">(感恩中国近现代科学家奖学金，面向中国西部的985/211高校评选，每所高校只评选10名)</span></div>
+      <div class="award-meta">Targeting 985/211 universities in Western China <span class="award-note">10 students per university</span></div>
+    </div>
+  </div>
+  <div class="award-item">
+    <div class="award-year">2020</div>
+    <div class="award-main">
+      <div class="award-title">Pin-Sheng Scholarship <span class="award-cn">(品胜奖学金)</span></div>
+      <div class="award-meta">Southwest University (SWU) <span class="award-note">Rate ≈ 1/480</span></div>
+    </div>
+  </div>
+  <div class="award-item">
+    <div class="award-year">2019</div>
+    <div class="award-main">
+      <div class="award-title">Yu-Hui Scholarship <span class="award-cn">(玉辉奖学金)</span></div>
+      <div class="award-meta">Southwest University (SWU) <span class="award-note">Rate ≈ 1/480</span></div>
+    </div>
+  </div>
+  <div class="award-item">
+    <div class="award-year">2017/2018/2019</div>
+    <div class="award-main">
+      <div class="award-title">National Scholarship <span class="award-cn">(三次获得 国家奖学金)</span></div>
+      <div class="award-meta">Southwest University (SWU) <span class="award-note">Rate ≈ 1/120</span></div>
+    </div>
+  </div>
+  <div class="award-item">
+    <div class="award-year">2019</div>
+    <div class="award-main">
+      <div class="award-title">Excellence in Learning Award <span class="award-cn">(学习优胜奖)</span></div>
+      <div class="award-meta">Southwest University (SWU)</div>
+    </div>
+  </div>
+  <div class="award-item">
+    <div class="award-year">2018</div>
+    <div class="award-main">
+      <div class="award-title">Advanced Individual in Technological Innovation <span class="award-cn">(科创先进个人称号)</span></div>
+      <div class="award-meta">Southwest University (SWU)</div>
+    </div>
+  </div>
+  <div class="award-item">
+    <div class="award-year">2017/2018</div>
+    <div class="award-main">
+      <div class="award-title">Outstanding Student Award <span class="award-cn">(两次获得 三好学生称号)</span></div>
+      <div class="award-meta">Southwest University (SWU)</div>
+    </div>
+  </div>
+</div>
 
 # 💼 Work Experience
 <span class='anchor' id='-work'></span>
