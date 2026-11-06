@@ -187,10 +187,6 @@ a:hover {
   line-height: 1.7;
 }
 
-.page__content > p {
-  max-width: 76ch;
-}
-
 .page__content a {
   text-decoration-thickness: 1px;
   text-underline-offset: 2px;
@@ -550,10 +546,6 @@ a:hover {
 }
 
 @media (max-width: 56em) {
-  .page__content > p {
-    max-width: none;
-  }
-
   .pub-title {
     font-size: 0.98rem;
   }
