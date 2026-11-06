@@ -10,6 +10,8 @@
   --accent-dark: #123553;
   --accent-soft: #eaf1f8;
   --line: #e4e8ec;
+  --line-soft: #eef1f4;
+  --content-width: 820px;
   --badge-a: #1f4e79;
   --badge-b: #2f6f6a;
   --badge-c: #6b7280;
@@ -175,11 +177,21 @@ a:hover {
    Page content
    -------------------------------------------------------------------------- */
 
+.page__content > * {
+  max-width: var(--content-width);
+}
+
 .page__content h1 {
-  margin-top: 1.6em;
+  margin-top: 1.7em;
+  margin-bottom: 0.55em;
   padding-bottom: 0.45em;
-  border-bottom-color: var(--line);
+  border-bottom: 1px solid var(--line-soft);
   letter-spacing: -0.01em;
+}
+
+.page__content > p {
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .page__content p,
@@ -205,8 +217,8 @@ a:hover {
   grid-template-columns: 64px minmax(0, 1fr);
   gap: 18px;
   align-items: start;
-  padding: 14px 0;
-  border-bottom: 1px solid var(--line);
+  padding: 15px 0 16px;
+  border-bottom: 1px solid var(--line-soft);
 }
 
 .edu-item:last-child {
@@ -294,8 +306,12 @@ a:hover {
   grid-template-columns: 150px minmax(0, 1fr);
   gap: 18px;
   align-items: start;
-  padding: 14px 0;
-  border-bottom: 1px solid var(--line);
+  padding: 13px 0 15px;
+  border-bottom: 1px solid var(--line-soft);
+}
+
+.interest-row:last-child {
+  border-bottom: 0;
 }
 
 .interest-title {
@@ -360,12 +376,12 @@ a:hover {
   display: flex;
   align-items: center;
   gap: 0.5em;
-  margin: 1.8em 0 0.2em;
+  margin: 1.6em 0 0.15em;
   padding-bottom: 0.35em;
   color: var(--ink);
   font-size: 1.05rem;
   font-weight: 700;
-  border-bottom: 1px solid var(--line);
+  border-bottom: 1px solid var(--line-soft);
 }
 
 .pub-group-title::before {
@@ -398,8 +414,8 @@ a:hover {
 
 .pub-item {
   margin: 0;
-  padding: 0.95em 0 1em;
-  border-bottom: 1px solid var(--line);
+  padding: 1.05em 0 1.15em;
+  border-bottom: 1px solid var(--line-soft);
 }
 
 .pub-item:last-child {
@@ -546,6 +562,10 @@ a:hover {
 }
 
 @media (max-width: 56em) {
+  .page__content > p {
+    text-align: left;
+  }
+
   .pub-title {
     font-size: 0.98rem;
   }
