@@ -52,7 +52,7 @@ redirect_from:
 
 
 
-<h3 class="pub-group-title">First / Corresponding Author <span class="pub-note">(# = corresponding author)</span> <span class="pub-count" data-pub-count>11 papers</span></h3>
+<h3 class="pub-group-title">First / Corresponding Author <span class="pub-note">(# = corresponding author)</span> <span class="pub-count" data-pub-count>12 papers</span></h3>
 
 <ul class="pub-list">
   <li class="pub-item">
@@ -121,11 +121,17 @@ redirect_from:
     <div class="pub-authors">Zike Yuan, <strong>Yukun Cao <sup>Co-First</sup></strong>, Han Zhang, Jianzhi Yan, Le Liu, Cai Ke, Yue Yu, Hui Wang, Ming Liu, Bing Qin</div>
     <div class="pub-meta"><em>arXiv preprint arXiv:2605.10366</em>. <a class="pub-link" href="https://arxiv.org/abs/2605.10366" target="_blank" rel="noopener">Paper</a></div>
   </li>
+  <li class="pub-item">
+    <div class="pub-tags"><span class="pub-venue-tag">arXiv 2026</span></div>
+    <div class="pub-title">ImageRSI: Verification-Driven Recursive Self-Improvement for Agentic Image Generation</div>
+    <div class="pub-authors">Shuo Han, Zhilin Wang, Peng Ling, Wenjia Gong, Yang Liu, Guanjun Jiang, <strong>Yukun Cao <sup>#</sup></strong>, Xike Xie</div>
+    <div class="pub-meta"><em>arXiv preprint arXiv:2610.32120</em>. <a class="pub-link" href="https://arxiv.org/abs/2610.32120" target="_blank" rel="noopener">Paper</a></div>
+  </li>
 </ul>
 
 <details class="pub-collapsible">
   <summary title="Expand or collapse other publications">
-    <span class="pub-group-title pub-group-other">Other Publications <span class="pub-count" data-pub-count>10 papers</span><span class="pub-toggle" aria-hidden="true"></span></span>
+    <span class="pub-group-title pub-group-other">Other Publications <span class="pub-count" data-pub-count>9 papers</span><span class="pub-toggle" aria-hidden="true"></span></span>
   </summary>
 
 
@@ -180,16 +186,10 @@ redirect_from:
     <div class="pub-meta"><em>Knowledge Science, Engineering and Management-12th International Conference (KSEM 2019)</em>.</div>
   </li>
   <li class="pub-item">
-    <div class="pub-tags"><span class="pub-venue-tag">arXiv 2026</span></div>
-    <div class="pub-title">ImageRSI: Verification-Driven Recursive Self-Improvement for Agentic Image Generation</div>
-    <div class="pub-authors">Shuo Han, Zhilin Wang, Peng Ling, Wenjia Gong, Yang Liu, Guanjun Jiang, <strong>Yukun Cao</strong>, Xike Xie</div>
-    <div class="pub-meta"><em>arXiv preprint arXiv:2610.32120</em>. <a class="pub-link" href="https://arxiv.org/abs/2610.32120" target="_blank" rel="noopener">Paper</a></div>
-  </li>
-  <li class="pub-item">
-    <div class="pub-tags"><span class="pub-venue-tag">arXiv 2026</span></div>
+    <div class="pub-tags"><span class="pub-venue-tag">EMNLP 26-Findings</span><span class="pub-ccf pub-ccf-b">CCF-B</span></div>
     <div class="pub-title">GRAIN: Bridging Name and Narrative Shifts in Real-World Graph Reasoning through Invariance-Rewarded Agentic RL</div>
     <div class="pub-authors">Zike Yuan, Han Zhang, Jianzhi Yan, Le Liu, Cai Ke, Huozhi Zhou, Jian Xie, Jiran Yin, <strong>Yukun Cao</strong>, Yue Yu, Hui Wang, Ming Liu, Bing Qin</div>
-    <div class="pub-meta"><em>arXiv preprint arXiv:2608.27142</em>. <a class="pub-link" href="https://arxiv.org/abs/2608.27142" target="_blank" rel="noopener">Paper</a></div>
+    <div class="pub-meta"><em>The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026), Findings</em>. <a class="pub-link" href="https://arxiv.org/abs/2608.27142" target="_blank" rel="noopener">Paper</a></div>
   </li>
 </ul>
 </details>
