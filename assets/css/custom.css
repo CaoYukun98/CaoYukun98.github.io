@@ -165,9 +165,9 @@ a:hover {
 
 .sidebar .author__affiliation-logo {
   flex: 0 0 auto;
-  width: 60px;
-  height: 60px;
-  max-width: 60px;
+  width: 68px;
+  height: 68px;
+  max-width: 68px;
   object-fit: contain;
 }
 
